@@ -18,5 +18,4 @@ This project was made with HTML,CSS, and Javascript. See source code for specifi
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 When navigating to the site you will be presented with a generate password button. Once clicking generate password a series of prompts will follow asking if you wish to include certain characteristics about your password. If you wish to include them in your newly generated password then you may click "ok" otherwise you can click on "cancel". Afterwards you will receive an alert asking you how long you want your new password to be, to which you will enter the number and click okay. This will genereate your newly generated password, congratulations!
