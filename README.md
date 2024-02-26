@@ -13,6 +13,8 @@ This project was made with HTML,CSS, and Javascript. See source code for specifi
 
 - Working on this project expanded my knowledge of Javascript, working with functions and variables on a deeeper level. Using loops and booleans that all tie in to make the website run.
 
+  ![Screenshot](https://github.com/Simplyareed/Password-Generator/blob/main/passsword%20generator%20SH.jpeg)
+
 
 ## Usage
 
